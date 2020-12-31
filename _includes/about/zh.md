@@ -1,33 +1,41 @@
-> 离开世界之前，一切都是过程。
+> ❀有重开日
 
-Hi，我是黄玄，前端娱乐圈 NPC，编程语言/编译器初心者，[Facebook](https://www.facebook.com/) 签约软件工程师，[广院](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6)认证数字设计师，曾被招募为阿里巴巴 · [阿里旅行（飞猪）](http://alitrip.com)· 前端工程师、微影时代 · 微票儿 · 前端基础设施工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 等。
+Hi，我是何玉峰
+同济大学20届计算机科学与技术系信息安全专业本科毕业生。
 
-目前的物理活动范围主要在美帝硅谷，分身日常出没于[博客](https://huangxuan.me)、[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro)、[Medium](https://medium.com/@Huxpro)。
+目前想要在上海或者北京找一份c++/python 后端或者cv相关的工作，如果有意向合作请联系 neondream@foxmail.com 或者微信号:neonplanet
+希望合作愉快( •̀ ω •́ )y
 
+####参与的项目
+##### [1]:Mask R-CNN
+MRCNN中FPN+RPN网络的复现，以及后续网络的搭建
+并尝试在windows下使用pytorch+Libtorch+cudac对计算过程进行优化
+<img src="../../img/about/mrcnn-1.png" height="256" />
+<img src="../../img/about/mrcnn-2.png" height="512" />
+##### [2]:tensorflow 下实现风格迁移
+<img src="../../img/about/trans-tj.jpg" height="256" />
+<img src="../../img/about/trans-star.jpg" height="256" />
+<img src="../../img/about/trans-fin.jpg" height="256" />
+##### [3]:安卓图像识别app开发 [详情](https://github.com/hateusername/mobilenet-android-app)
+<img src="../../img/about/jeep.jpg" height="768" />
 
-##### [我的编程语言可视化 (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
+##### [4]:分布式 lab
+ 待更新
+##### [5]:https server
+ 待更新
 
-这个图表可视化了我对于各种编程语言的使用经历、兴趣，还附带了一些评语和解释等等。 啊我知道对比编程语言是一件很有争议的事情……自娱自乐一下！不要太较真哦 ;)
+####校园经历
+参与IEEE第9届效用与云计算会议，第三届IEEE/ACM大数据科学工程与应用大会等各类国际会议，并能够与会议学者使用英语流利讨论
 
+####技能/证书/爱好等
+1. c++，python，能够阅读源码，参与开发，理解数据结构与算法
+2. 计算机网络对数据链路层，网络层，传输层，及应用层都有基本了解，了解各数据协议基本原理
+3. 英语CET-6，能够与国际会议学者流利讨论问题
+4. 能够使用github进行开发
+5. 爱好：复古波制作，守望先锋（曾达到国服前500）
 
-##### 演讲与分享
-
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+####个人总结
+具有较强的自学能力，能够自己解决开发过程中遇见的问题
+较强的沟通理解能力，能够迅速理解并掌握开发中的原理
+团队协作能力，能够快速融入团队并共同协作
+乐观积极，幽默有趣XD
