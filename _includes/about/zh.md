@@ -11,15 +11,15 @@ Hi，我是何玉峰
 ##### [1]:Mask R-CNN
 MRCNN中FPN+RPN网络的复现，以及后续网络的搭建
 并尝试在windows下使用pytorch+Libtorch+cudac对计算过程进行优化
-<img src="../../img/about/mrcnn-1.png" height="300" /><br>
-<img src="../../img/about/mrcnn-2.png" height="512" />
+<img src="../../img/about/mrcnn-1.png" width="512" /><br>
+<img src="../../img/about/mrcnn-2.png" width="256" />
 ##### [2]:tensorflow 下实现风格迁移
 <img src="../../img/about/trans-tj.jpg" height="400" />
 <img src="../../img/about/trans-star.jpg" height="400" />
 <img src="../../img/about/trans-fin.jpg" height="400" /><br>
 
 ##### [3]:安卓图像识别app开发 [详情](https://github.com/hateusername/mobilenet-android-app)<br>
-<img src="../../img/about/jeep.jpg" height="768" />
+<img src="../../img/about/jeep.jpg" width="256" />
 
 ##### [4]:分布式 lab
 待更新
