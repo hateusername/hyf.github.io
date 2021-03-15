@@ -3,9 +3,8 @@
 Hi，我是何玉峰
 同济大学20届计算机科学与技术系信息安全专业本科毕业生。
 
-目前想要在上海或者北京找一份c++/python 后端或者cv相关的工作
-如果有意向合作请联系 neondream@foxmail.com 或者微信号:neonplanet
-希望合作愉快( •̀ ω •́ )y
+目前在CAPER担任计算机视觉工程师 （Shanghai Base）
+我们在创造令人惊叹的产品！！！( •̀ ω •́ )y
 
 #### 参与的项目
 ##### [1]:Mask R-CNN（c++ python cudac pytorch Libtorch）
